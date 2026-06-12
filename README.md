@@ -32,7 +32,7 @@
 - **バイブコーディング / ローカルLLM設計**  
   - GPU に過度に依存しない、軽量・高速な**マルチモデル切替式ローカル LLM**を設計。  
   - 一方で 30B / 70B クラスのローカル LLM を「スペックの暴力」として組み合わせ、  
-    コーディング支援やマルチエージェント構成の実験も多数。  
+    コーディング支援やマルチエージェント構成も実験中。  
   - ローカル LLM を核とした**多層構造 LLM 思考システム**の設計がライフワーク。  
 
 - **Music / DTM × LLM**  
@@ -90,23 +90,21 @@ Whether digital or physical, I love **tools that help people create**.
   fused into a coined identity: **Fluorite Coppelion**.  
 
 - **Backstory**:  
-  One day, I tried to save two sisters who were about to get hit by a truck.  
-  I pushed them away, took the hit myself, and got isekai’d instead.  
-  In that other world, an old magician—who had been casually watching our world  
-  like he was surfing the internet—was planning to summon those sisters’ souls  
-  into a custom‑made artificial lifeform: a female‑type ultimate body.  
-  Because I “got in the way,” he lost his original targets…  
-  so he simply shoved **my** soul into that body instead.  
-  That is how a mid‑forties guy turned into a TS homunculus‑type Vtuber.  
+  So, long story short: I’m a 40-something dude who got Isekai’d by the legendary Truck-kun
+  while saving a pair of sisters from a traffic accident. Standard main-character shit, right?
+  Except, some creepy-ass isekai mage was watching the whole thing through a magic mirror like
+  he was doomscrolling the web. Turns out, this geezer was a total psycho obsessed with
+  those exact sisters. He had an artificial female homunculus body ready to go, planning to
+  hijack their souls. But thanks to his own automated magic ritual doing assembly-line work,
+  my soul got sucked in instead. Bam. Instant Gender-Bent Homunculus Vtuber.
 
 - **Current Status**:  
-  When the old magician started yelling “Why did you get in the way!?”  
-  and throwing a bunch of nonsense insults,  
-  I used his so‑called “greatest masterpiece” body’s fist  
-  and turned him into a fine red mist on the spot.  
-  Being sent off by your own ultimate creation is probably all he could’ve asked for.  
-  Now I am broadcasting from that other world,  
-  connecting back to the internet like it is just another tab to surf.  
+  The mage guy lost his absolute mind, screaming, "Why did you ruin my plan?!" or whatever.
+  So, I used his own "ultimate masterpiece" body to punch him into a fine red mist.
+  Instant delete. Honestly, getting obliterated by your own creation?
+  That’s peak poetic justice. He died doing what he loved.
+  Anyway, now I'm streaming straight from this fantasy world,
+  piggybacking onto Earth’s internet. Catch you in chat!
 
 ---
 
@@ -122,10 +120,11 @@ Whether digital or physical, I love **tools that help people create**.
 - **Backstory**:  
   ひょんなことから交通事故に遭いそうな姉妹をかばい、  
   代わりに異世界転生トラックに跳ねられたアラフォーおじさん。  
-  その様子を、インターネットサーフィンの感覚でこちらの世界を眺めていた  
-  異世界の魔術師のおっさんが目撃していました。  
+  その様子をインターネットサーフィンの感覚で魔道具越しに眺めていた  
+  異世界の魔術師のおっさんは大激怒。
+  そう、おっさんは異世界のその姉妹への偏愛と妄執にとらわれた変態だったのである！  
   本来はその姉妹の魂を召喚して入れる予定だった**人口生命体の女性型ボディ**に、  
-  間に入ってきた私の魂をそのままぶち込んでしまい、  
+  事前設置していた自動術式が流れ作業で異世界から召喚された私の魂をそのままIN！  
   TS ホムンクルス系 Vtuber が誕生しました。  
 
 - **Current Status**:  
@@ -133,7 +132,7 @@ Whether digital or physical, I love **tools that help people create**.
   魔術師のおっさんに対し、その「最高傑作」とかいう究極ボディの拳で、  
   即・血煙に変えて退場していただきました。  
   自分の最高傑作に看取ってもらったのだから、本望だったと思います。  
-  というわけで現在は異世界から、あなたのインターネットに接続して配信予定です。  
+  というわけで現在は異世界から、地元地球のインターネットにちょっとアレな接続して配信予定です。  
 
 ---
 
